@@ -1,0 +1,593 @@
+TTestSlideMessageView
+v7
+r0
+t302564144.594125
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/Info.plist" TestSlideMessageView-Info.plist
+cCompileXIB "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/MainWindow.xib"
+cCompileXIB "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/TestSlideMessageViewViewController.xib"
+cCompileXIB "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/ModalView.xib"
+cProcessPCH /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-gmttrfesvishmtantxdembfiaupr/TestSlideMessageView_Prefix.pch.gch TestSlideMessageView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/main.o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewAppDelegate.o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewViewController.o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/SlideMessageView.o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/SlideMessageView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/ModalViewController.o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/ModalViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView" normal i386
+cGenerateDSYMFile "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app.dSYM" "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView"
+cTouch "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C44B2770000000000000132
+t1279570551
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/cwiles/Desktop/TestSlideMessageView/Classes/ModalViewController.h
+c000000004C1F857E0000000000000104
+t1277134206
+s260
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/TestSlideMessageView/Classes/ModalViewController.m
+c000000004C1F88E00000000000000619
+t1277135072
+s1561
+i"ModalViewController.h"
+
+N/Users/cwiles/Desktop/TestSlideMessageView/Classes/SlideMessageView.h
+c000000004C1F668200000000000001A0
+t1277126274
+s416
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/TestSlideMessageView/Classes/SlideMessageView.m
+c000000004C1F66770000000000000E27
+t1277126263
+s3623
+i"SlideMessageView.h"
+
+N/Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.h
+c000000004C1F7B840000000000000227
+t1277131652
+s551
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m
+c000000004C1F7B840000000000000AC6
+t1277131652
+s2758
+i"TestSlideMessageViewAppDelegate.h"
+i"TestSlideMessageViewViewController.h"
+
+N/Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewViewController.h
+c000000004C1F84E80000000000000253
+t1277134056
+s595
+i<UIKit/UIKit.h>
+i"ModalViewController.h"
+i"SlideMessageView.h"
+
+N/Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m
+c000000004C1F84A200000000000009CC
+t1277133986
+s2508
+i"TestSlideMessageViewViewController.h"
+
+N/Users/cwiles/Desktop/TestSlideMessageView/MainWindow.xib
+c000000004C1F7B840000000000004EC5
+t1277131652
+s20165
+
+N/Users/cwiles/Desktop/TestSlideMessageView/ModalView.xib
+c000000004C1F838E00000000000043D4
+t1277133710
+s17364
+
+N/Users/cwiles/Desktop/TestSlideMessageView/TestSlideMessageViewViewController.xib
+c000000004C1F843A0000000000004ABF
+t1277133882
+s19135
+
+N/Users/cwiles/Desktop/TestSlideMessageView/TestSlideMessageView_Prefix.pch
+c000000004C1F7B8400000000000000D1
+t1277131652
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app
+t1277135073
+s272
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app.dSYM
+t1277135073
+s102
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/Info.plist
+t1277131657
+s649
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/MainWindow.nib
+t1277131658
+s1149
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/ModalView.nib
+t1277133716
+s1319
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/PkgInfo
+t1277131657
+s8
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView
+t1277135073
+s27192
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageViewViewController.nib
+t1277133886
+s1513
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/ModalViewController.o
+t1277135072
+s38604
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/SlideMessageView.o
+t1277132475
+s42724
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageView.LinkFileList
+c000000004C1F7EBB000000000000034C
+t1277132475
+s844
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewAppDelegate.o
+t1277135053
+s48548
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewViewController.o
+t1277135053
+s45320
+
+N/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/main.o
+t1277131659
+s6312
+
+N/Users/cwiles/Desktop/TestSlideMessageView/main.m
+c000000004C1F7B840000000000000170
+t1277131652
+s368
+i<UIKit/UIKit.h>
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/ModalViewController.h
+c000000004C1F857E0000000000000104
+t1277134206
+s260
+i<UIKit/UIKit.h>
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/ModalViewController.m
+c000000004C1F88E00000000000000619
+t1277135072
+s1561
+i"ModalViewController.h"
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/SlideMessageView.h
+c000000004C1F668200000000000001A0
+t1277126274
+s416
+i<UIKit/UIKit.h>
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/SlideMessageView.m
+c000000004C1F66770000000000000E27
+t1277126263
+s3623
+i"SlideMessageView.h"
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.h
+c000000004C1F7B840000000000000227
+t1277131652
+s551
+i<UIKit/UIKit.h>
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m
+c000000004C1F7B840000000000000AC6
+t1277131652
+s2758
+i"TestSlideMessageViewAppDelegate.h"
+i"TestSlideMessageViewViewController.h"
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewViewController.h
+c000000004C1F84E80000000000000253
+t1277134056
+s595
+i<UIKit/UIKit.h>
+i"ModalViewController.h"
+i"SlideMessageView.h"
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m
+c000000004C1F84A200000000000009CC
+t1277133986
+s2508
+i"TestSlideMessageViewViewController.h"
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/MainWindow.xib
+c000000004C1F7B840000000000004EC5
+t1277131652
+s20165
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/ModalView.xib
+c000000004C1F838E00000000000043D4
+t1277133710
+s17364
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/TestSlideMessageViewViewController.xib
+c000000004C1F843A0000000000004ABF
+t1277133882
+s19135
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/TestSlideMessageView_Prefix.pch
+c000000004C1F7B8400000000000000D1
+t1277131652
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app
+t1280871344
+s264
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app.dSYM
+t1280871344
+s264
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/Info.plist
+t1277131657
+s649
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/MainWindow.nib
+t1277131658
+s1149
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/ModalView.nib
+t1277133716
+s1319
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/PkgInfo
+t1277131657
+s8
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView
+t1280871344
+s27292
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageViewViewController.nib
+t1277133886
+s1513
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/ModalViewController.o
+t1280871344
+s38624
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/SlideMessageView.o
+t1280871344
+s42740
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageView.LinkFileList
+c000000004C588BAF000000000000037E
+t1280871343
+s894
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewAppDelegate.o
+t1280871344
+s48568
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewViewController.o
+t1280871344
+s45340
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/main.o
+t1280871344
+s6332
+
+N/Volumes/cwiles/iPhone Projects/TestSlideMessageView/main.m
+c000000004C1F7B840000000000000170
+t1277131652
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-gmttrfesvishmtantxdembfiaupr/TestSlideMessageView_Prefix.pch.gch
+t1280871343
+s15232016
+
+N/var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-hcbielkhzihgpxgwsgghksrtwxbi/TestSlideMessageView_Prefix.pch.gch
+t1277131659
+s15232016
+
+NTestSlideMessageView-Info.plist
+c000000004C1F7B84000000000000038D
+t1277131652
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302564142#302564143#0(0"0(0#1#0"8609254688#0"0#
+
+CCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/ModalViewController.o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/ModalViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302564144.143326
+e302564144.292244
+r1
+xCompileC
+xbuild/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/ModalViewController.o
+x/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/ModalViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/ModalViewController.m302564144#302564144#0(0"0(0#0#82"/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/ModalViewController.m8603453856#2375"    cd "/Volumes/cwiles/iPhone Projects/TestSlideMessageView"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-generated-files.hmap" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-own-target-headers.hmap" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-all-target-headers.hmap" -iquote "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-project-headers.hmap" "-F/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/include" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources/i386" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources" -include /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-gmttrfesvishmtantxdembfiaupr/TestSlideMessageView_Prefix.pch -c "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/ModalViewController.m" -o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/ModalViewController.o"0#
+
+CCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/ModalViewController.o /Users/cwiles/Desktop/TestSlideMessageView/Classes/ModalViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298827872.836352
+e298827872.983014
+r1
+xCompileC
+xbuild/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/ModalViewController.o
+x/Users/cwiles/Desktop/TestSlideMessageView/Classes/ModalViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/cwiles/Desktop/TestSlideMessageView/Classes/ModalViewController.m298827872#298827872#0(0"0(0#0#72"/Users/cwiles/Desktop/TestSlideMessageView/Classes/ModalViewController.m8611385600#2243"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-generated-files.hmap -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-own-target-headers.hmap -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-project-headers.hmap -F/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources/i386 -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-hcbielkhzihgpxgwsgghksrtwxbi/TestSlideMessageView_Prefix.pch -c /Users/cwiles/Desktop/TestSlideMessageView/Classes/ModalViewController.m -o /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/ModalViewController.o0#
+
+CCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/SlideMessageView.o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/SlideMessageView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302564144.033411
+e302564144.176440
+r1
+xCompileC
+xbuild/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/SlideMessageView.o
+x/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/SlideMessageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/SlideMessageView.m302564144#302564144#0(0"0(0#0#79"/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/SlideMessageView.m8606982144#2369"    cd "/Volumes/cwiles/iPhone Projects/TestSlideMessageView"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-generated-files.hmap" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-own-target-headers.hmap" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-all-target-headers.hmap" -iquote "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-project-headers.hmap" "-F/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/include" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources/i386" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources" -include /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-gmttrfesvishmtantxdembfiaupr/TestSlideMessageView_Prefix.pch -c "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/SlideMessageView.m" -o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/SlideMessageView.o"0#
+
+CCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/SlideMessageView.o /Users/cwiles/Desktop/TestSlideMessageView/Classes/SlideMessageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298825275.703474
+e298825275.825538
+r1
+xCompileC
+xbuild/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/SlideMessageView.o
+x/Users/cwiles/Desktop/TestSlideMessageView/Classes/SlideMessageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/cwiles/Desktop/TestSlideMessageView/Classes/SlideMessageView.m298825275#298825275#0(0"0(0#0#69"/Users/cwiles/Desktop/TestSlideMessageView/Classes/SlideMessageView.m8603224992#2237"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-generated-files.hmap -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-own-target-headers.hmap -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-project-headers.hmap -F/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources/i386 -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-hcbielkhzihgpxgwsgghksrtwxbi/TestSlideMessageView_Prefix.pch -c /Users/cwiles/Desktop/TestSlideMessageView/Classes/SlideMessageView.m -o /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/SlideMessageView.o0#
+
+CCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewAppDelegate.o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302564143.810492
+e302564144.033324
+r1
+xCompileC
+xbuild/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewAppDelegate.o
+x/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m302564143#302564144#0(0"0(0#0#94"/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m8608558848#2399"    cd "/Volumes/cwiles/iPhone Projects/TestSlideMessageView"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-generated-files.hmap" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-own-target-headers.hmap" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-all-target-headers.hmap" -iquote "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-project-headers.hmap" "-F/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/include" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources/i386" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources" -include /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-gmttrfesvishmtantxdembfiaupr/TestSlideMessageView_Prefix.pch -c "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m" -o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewAppDelegate.o"0#
+
+CCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewAppDelegate.o /Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298827853.608704
+e298827853.808279
+r1
+xCompileC
+xbuild/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewAppDelegate.o
+x/Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m298827853#298827853#0(0"0(0#0#84"/Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m8619722336#2267"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-generated-files.hmap -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-own-target-headers.hmap -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-project-headers.hmap -F/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources/i386 -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-hcbielkhzihgpxgwsgghksrtwxbi/TestSlideMessageView_Prefix.pch -c /Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewAppDelegate.m -o /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewAppDelegate.o0#
+
+CCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewViewController.o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302564143.955523
+e302564144.143127
+r1
+xCompileC
+xbuild/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewViewController.o
+x/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m302564143#302564144#0(0"0(0#0#97"/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m8607370112#2405"    cd "/Volumes/cwiles/iPhone Projects/TestSlideMessageView"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-generated-files.hmap" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-own-target-headers.hmap" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-all-target-headers.hmap" -iquote "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-project-headers.hmap" "-F/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/include" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources/i386" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources" -include /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-gmttrfesvishmtantxdembfiaupr/TestSlideMessageView_Prefix.pch -c "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m" -o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewViewController.o"0#
+
+CCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewViewController.o /Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298827853.609838
+e298827853.722101
+r1
+xCompileC
+xbuild/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewViewController.o
+x/Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m298827853#298827853#0(0"0(0#0#87"/Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m8619143680#2273"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-generated-files.hmap -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-own-target-headers.hmap -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-project-headers.hmap -F/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources/i386 -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-hcbielkhzihgpxgwsgghksrtwxbi/TestSlideMessageView_Prefix.pch -c /Users/cwiles/Desktop/TestSlideMessageView/Classes/TestSlideMessageViewViewController.m -o /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageViewViewController.o0#
+
+CCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/main.o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302564143.796696
+e302564143.955438
+r1
+xCompileC
+xbuild/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/main.o
+x/Volumes/cwiles/iPhone Projects/TestSlideMessageView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Volumes/cwiles/iPhone Projects/TestSlideMessageView/main.m302564143#302564143#0(0"0(0#0#59"/Volumes/cwiles/iPhone Projects/TestSlideMessageView/main.m8609153824#2337"    cd "/Volumes/cwiles/iPhone Projects/TestSlideMessageView"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-generated-files.hmap" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-own-target-headers.hmap" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-all-target-headers.hmap" -iquote "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-project-headers.hmap" "-F/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/include" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources/i386" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources" -include /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-gmttrfesvishmtantxdembfiaupr/TestSlideMessageView_Prefix.pch -c "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/main.m" -o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/main.o /Users/cwiles/Desktop/TestSlideMessageView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298824459.626001
+e298824459.687264
+r1
+xCompileC
+xbuild/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/main.o
+x/Users/cwiles/Desktop/TestSlideMessageView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/cwiles/Desktop/TestSlideMessageView/main.m298824459#298824459#0(0"0(0#0#49"/Users/cwiles/Desktop/TestSlideMessageView/main.m8605173024#2205"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-generated-files.hmap -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-own-target-headers.hmap -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-project-headers.hmap -F/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources/i386 -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-hcbielkhzihgpxgwsgghksrtwxbi/TestSlideMessageView_Prefix.pch -c /Users/cwiles/Desktop/TestSlideMessageView/main.m -o /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/MainWindow.xib"
+r0
+
+CCompileXIB "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/ModalView.xib"
+r0
+
+CCompileXIB "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/TestSlideMessageViewViewController.xib"
+r0
+
+CCompileXIB /Users/cwiles/Desktop/TestSlideMessageView/MainWindow.xib
+s298824457.800299
+e298824458.235200
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/TestSlideMessageView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib298824457#298824458#0(0"0(0#0#57"/Users/cwiles/Desktop/TestSlideMessageView/MainWindow.xib31244220638101620#595"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/MainWindow.nib /Users/cwiles/Desktop/TestSlideMessageView/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/cwiles/Desktop/TestSlideMessageView/ModalView.xib
+s298826515.776216
+e298826516.307807
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/TestSlideMessageView/ModalView.xib
+lSLF07#2@24"CompileXIB ModalView.xib298826515#298826516#0(0"0(0#0#56"/Users/cwiles/Desktop/TestSlideMessageView/ModalView.xib8600113728#593"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/ModalView.nib /Users/cwiles/Desktop/TestSlideMessageView/ModalView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/cwiles/Desktop/TestSlideMessageView/TestSlideMessageViewViewController.xib
+s298826686.331764
+e298826686.750084
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/TestSlideMessageView/TestSlideMessageViewViewController.xib
+lSLF07#2@49"CompileXIB TestSlideMessageViewViewController.xib298826686#298826686#0(0"0(0#0#81"/Users/cwiles/Desktop/TestSlideMessageView/TestSlideMessageViewViewController.xib8612079296#643"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageViewViewController.nib /Users/cwiles/Desktop/TestSlideMessageView/TestSlideMessageViewViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app.dSYM" "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView"
+s302564144.403572
+e302564144.582658
+r1
+xGenerateDSYMFile
+x/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app.dSYM
+x/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView
+lSLF07#2@148"GenerateDSYMFile build/Debug-iphonesimulator/TestSlideMessageView.app.dSYM build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView302564144#302564144#0(0"0(0#0#126"/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView8608035104#470"    cd "/Volumes/cwiles/iPhone Projects/TestSlideMessageView"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView" -o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app.dSYM"0#
+
+CGenerateDSYMFile /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app.dSYM /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView
+s298827873.012204
+e298827873.041307
+r1
+xGenerateDSYMFile
+x/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app.dSYM
+x/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView
+lSLF07#2@148"GenerateDSYMFile build/Debug-iphonesimulator/TestSlideMessageView.app.dSYM build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView298827873#298827873#0(0"0(0#0#116"/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView8619519968#434"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView -o /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app.dSYM0#
+
+CLd "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView" normal i386
+s302564144.292322
+e302564144.403489
+r1
+xLd
+x/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView
+xnormal
+xi386
+lSLF07#2@131"Link /Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView302564144#302564144#0(0"0(0#0#0"8607436480#1045"    cd "/Volumes/cwiles/iPhone Projects/TestSlideMessageView"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator" "-F/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator" -filelist "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageView.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView"0#
+
+CLd /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView normal i386
+s298827872.983126
+e298827873.012090
+r1
+xLd
+x/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView
+xnormal
+xi386
+lSLF07#2@121"Link /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView298827872#298827873#0(0"0(0#0#0"8619813184#985"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator -F/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator -filelist /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/Objects-normal/i386/TestSlideMessageView.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/TestSlideMessageView0#
+
+CProcessInfoPlistFile "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/Info.plist" TestSlideMessageView-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/Info.plist TestSlideMessageView-Info.plist
+s298824457.784391
+e298824457.800198
+r1
+xProcessInfoPlistFile
+x/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/Info.plist
+xTestSlideMessageView-Info.plist
+lSLF07#2@39"Process TestSlideMessageView-Info.plist298824457#298824457#0(0"0(0#0#74"/Users/cwiles/Desktop/TestSlideMessageView/TestSlideMessageView-Info.plist28429415035764852#530"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TestSlideMessageView-Info.plist -genpkginfo /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app/Info.plist0#
+
+CProcessPCH /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-gmttrfesvishmtantxdembfiaupr/TestSlideMessageView_Prefix.pch.gch TestSlideMessageView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302564143.208798
+e302564143.796586
+r1
+xProcessPCH
+x/var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-gmttrfesvishmtantxdembfiaupr/TestSlideMessageView_Prefix.pch.gch
+xTestSlideMessageView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile TestSlideMessageView_Prefix.pch302564143#302564143#0(0"0(0#0#84"/Volumes/cwiles/iPhone Projects/TestSlideMessageView/TestSlideMessageView_Prefix.pch8604389696#2200"    cd "/Volumes/cwiles/iPhone Projects/TestSlideMessageView"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-generated-files.hmap" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-own-target-headers.hmap" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-all-target-headers.hmap" -iquote "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-project-headers.hmap" "-F/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/include" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources/i386" "-I/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources" -c "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/TestSlideMessageView_Prefix.pch" -o /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-gmttrfesvishmtantxdembfiaupr/TestSlideMessageView_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-hcbielkhzihgpxgwsgghksrtwxbi/TestSlideMessageView_Prefix.pch.gch TestSlideMessageView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298824458.316298
+e298824459.625717
+r1
+xProcessPCH
+x/var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-hcbielkhzihgpxgwsgghksrtwxbi/TestSlideMessageView_Prefix.pch.gch
+xTestSlideMessageView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile TestSlideMessageView_Prefix.pch298824458#298824459#0(0"0(0#0#74"/Users/cwiles/Desktop/TestSlideMessageView/TestSlideMessageView_Prefix.pch8599682944#2080"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-generated-files.hmap -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-own-target-headers.hmap -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/TestSlideMessageView-project-headers.hmap -F/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources/i386 -I/Users/cwiles/Desktop/TestSlideMessageView/build/TestSlideMessageView.build/Debug-iphonesimulator/TestSlideMessageView.build/DerivedSources -c /Users/cwiles/Desktop/TestSlideMessageView/TestSlideMessageView_Prefix.pch -o /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TestSlideMessageView_Prefix-hcbielkhzihgpxgwsgghksrtwxbi/TestSlideMessageView_Prefix.pch.gch0#
+
+CTouch "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app"
+s302564144.591963
+e302564144.594089
+r1
+xTouch
+x/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app
+lSLF07#2@111"Touch /Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app302564144#302564144#0(0"0(0#0#0"8604184960#323"    cd "/Volumes/cwiles/iPhone Projects/TestSlideMessageView"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/cwiles/iPhone Projects/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app"0#
+
+CTouch /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app
+s298827873.041398
+e298827873.044338
+r1
+xTouch
+x/Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app
+lSLF07#2@101"Touch /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app298827873#298827873#0(0"0(0#0#0"8619361344#299"    cd /Users/cwiles/Desktop/TestSlideMessageView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cwiles/Desktop/TestSlideMessageView/build/Debug-iphonesimulator/TestSlideMessageView.app0#
+
